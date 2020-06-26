@@ -1,0 +1,2 @@
+# footerRicardo
+Stretch goal  component
